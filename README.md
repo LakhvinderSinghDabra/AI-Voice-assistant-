@@ -27,6 +27,12 @@ A Python-based voice assistant capable of speech recognition, voice output, and 
 3. Run the main file
    python main.py
 
+## 🚀 Watch the Demo
+
+Check out how the AI Voice Assistant works in action:  
+🎬 (https://youtube.com/shorts/9kTCAnqU6O8?feature=share)
+
+
 
 
 
